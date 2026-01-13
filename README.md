@@ -1,7 +1,5 @@
 # URL Validation Service
 
-> **Interview Framing:** "This solution optimizes for the common case with synchronous execution while safely scaling to millions of URLs via background jobs."
-
 A scalable .NET Web API that validates URLs with **hybrid sync/async processing** - perfect for interview discussions on system design and scalability.
 
 ---
